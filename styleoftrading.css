@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  font: 11pt constantia, sans-serif, serif ;
+  border: 4px inset ;
+  width: 315px;
+}
+
+li {
+  list-style: none;
+}
+.intro {
+  font-style: italic;
+}
+p {
+  text-align: justify;
+}
+.cardinformation {
+  width: 300px;
+  border: 2px outset;
+}
+.margincard {
+  background-color: lightgrey;
+  margin: 5px;
+}
+span{
+  font-weight: bold;
+}
